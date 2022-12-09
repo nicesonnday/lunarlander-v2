@@ -38,6 +38,8 @@ matplotlib
 imageio
 Pillow
 ```
+## Results
+![plot](training_plot.png)
 
 ## Usage
 
