@@ -1,0 +1,17 @@
+torch==1.10.1
+torchaudio==0.10.1
+torchvision==0.11.2
+torchsummary==1.5.1
+numpy==1.23.4
+python==3.8.0
+gym==0.26.2
+pygame=2.1.0
+box2d-py==2.3.5
+swig==4.1.0
+tqdm=4.61.1
+moviepy
+IPython
+matplotlib
+imageio
+Pillow
+
