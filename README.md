@@ -44,7 +44,7 @@ Pillow
 ## Usage
 
 ### Training
-python main.py --mode = 'train' --save_video = False --save_plot = True --num_test = 1000
+python main.py --mode='train' --save_video False --save_plot=True --num_test=1000
 
 ### Testing
-python main.py --mode = 'test' --save_video = True --save_plot = True --num_test = 1000
+python main.py --mode='test' --save_video=True --save_plot=True --num_test=1000
